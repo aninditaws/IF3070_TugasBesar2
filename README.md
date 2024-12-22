@@ -25,8 +25,7 @@ python -m ensurepip --upgrade
 python -m venv env
 env\Scripts\activate
 ```
-4. Run File Jupyter Notebook
-   Buka dan run file `IF3070_DAI_TugasBesar2_finalboss.ipynb`
+4. Run File Jupyter Notebook `IF3070_DAI_TugasBesar2_finalboss.ipynb`
 
 ## Struktur Program
 ```bash
