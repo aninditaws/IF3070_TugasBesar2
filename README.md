@@ -11,3 +11,6 @@ Tugas Besar 2 IF3070 Dasar Inteligensi Buatan bertujuan untuk memberikan pengala
 # Setup
 Clone This Repository
 
+```bash
+git clone https://github.com/aninditaws/IF3070_TugasBesar2.git
+
