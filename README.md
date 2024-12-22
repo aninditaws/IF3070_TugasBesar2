@@ -29,5 +29,18 @@ env\Scripts\activate
 Buka dan run file `IF3070_DAI_TugasBesar2_finalboss.ipynb`
 
 # Struktur Program
+```bash
+│ README.md
+│
+├── data
+│   ├── sample_submission.csv   
+│   ├── test.csv               
+│   └── train.csv              
+│
+├── docs
+│   └── 
+│
+├── src
+│   └── IF3070_DAI_TugasBesar2_finalb.ipynb   
 
 
