@@ -47,7 +47,7 @@ env\Scripts\activate
 ## Pembagian Tugas
 | NIM      | Nama Lengkap           | Tugas                                                                                     |
 |----------|------------------------|-------------------------------------------------------------------------------------------|
-| 18222113 | Angelica Aliwinata     |                                                                                           |
-| 18222116 | Jason Jahja            |                                                                                           |
-| 18222123 | Melissa Trenggono      |                                                                                           |
-| 18222128 | Anindita Widya Santoso |                                                                                           |
+| 18222113 | Angelica Aliwinata     | Modelling Naive Bayes                                                                     |
+| 18222116 | Jason Jahja            | Modelling KNN                                                                             |
+| 18222123 | Melissa Trenggono      | Modelling Naive Bayes                                                                     |
+| 18222128 | Anindita Widya Santoso | Data Cleaning & Preprocessing, Compile Pipeline                                           |
