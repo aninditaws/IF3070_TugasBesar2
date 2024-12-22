@@ -9,8 +9,11 @@ Tugas Besar 2 IF3070 Dasar Inteligensi Buatan bertujuan untuk memberikan pengala
 - Modeling & Validation (KNN & Gaussian Naive Bayes)
 
 # Setup
-Clone This Repository
+1. Clone Repository
 
 ```bash
 git clone https://github.com/aninditaws/IF3070_TugasBesar2.git
+```
+2. Run File Jupyter Notebook
+   `IF3070_DAI_TugasBesar2_finalboss.ipynb`
 
