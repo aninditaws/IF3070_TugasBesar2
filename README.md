@@ -1,14 +1,14 @@
 # IF3070_TugasBesar2: Implementasi Algoritma Pembelajaran Mesin
 
-# Tentang Proyek
+## Tentang Proyek
 Tugas Besar 2 IF3070 Dasar Inteligensi Buatan bertujuan untuk memberikan pengalaman langsung dalam menerapkan algoritma pembelajaran mesin pada permasalahan nyata dengan mengimplementasikan algoritma K-Nearest Neighbour (KNN) dan Gaussian Naive Bayes. Implementasi ini dilakukan dengan menggunakan Python dan Jupyter Notebook.
 
-# Implementasi Proyek
+## Implementasi Proyek
 - Split Data
 - Data Cleaning & Preprocessing
 - Modeling & Validation (KNN & Gaussian Naive Bayes)
 
-# Cara Kompilasi Program
+## Cara Kompilasi Program
 1. Clone Repository Github dan cd ke Folder src
 ```bash
 git clone https://github.com/aninditaws/IF3070_TugasBesar2.git
@@ -28,7 +28,7 @@ env\Scripts\activate
 4. Run File Jupyter Notebook
 Buka dan run file `IF3070_DAI_TugasBesar2_finalboss.ipynb`
 
-# Struktur Program
+## Struktur Program
 ```bash
 │ README.md
 │
@@ -42,5 +42,13 @@ Buka dan run file `IF3070_DAI_TugasBesar2_finalboss.ipynb`
 │
 ├── src
 │   └── IF3070_DAI_TugasBesar2_finalb.ipynb   
-
-
+│
+└───
+```
+## Pembagian Tugas
+| NIM      | Nama Lengkap           | Tugas                                                                                     |
+|----------|------------------------|-------------------------------------------------------------------------------------------|
+| 18222113 | Angelica Aliwinata     |                                                                                           |
+| 18222116 | Jason Jahja            |                                                                                           |
+| 18222123 | Melissa Trenggono      |                                                                                           |
+| 18222128 | Anindita Widya Santoso |                                                                                           |
